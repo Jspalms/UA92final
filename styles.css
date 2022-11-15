@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.number {
+  padding: 5px;
+  margin: 2px;
+  outline: black solid 1px;
+  font-weight: 600;
+  font-size: 16px;
+  width: 30px;
+  text-align: center;
+}
+
+#bonusBall {
+  background-color: yellow;
+  margin-left: 10px;
+}
+
+button {
+  margin-left: 20px;
+}
